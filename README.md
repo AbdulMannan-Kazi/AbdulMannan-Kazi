@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulMannan-Kazi
-- 👀 I’m interested in AWS, Azure and Snowflake.
+- 👀 I’m interested in Biryaani, AWS, Masala Dosa, Azure and Snowflake.
 - 🌱 I’m currently learning Snowflake
 - 💞️ I’m looking to collaborate on ETL, and Cloud native platforms 
 - 📫 How to reach me Kazii.mannan@gmail.com...from here you can connect with me ..
